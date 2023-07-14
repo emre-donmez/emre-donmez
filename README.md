@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">📫 How to reach me: **emrecandonmez.bt@gmail.com** and linkedin message</p>
+<p align="left">📫 How to reach me: <a href="mailto:emrecandonmez.bt@gmail.com">emrecandonmez.bt@gmail.com</a> and  <a href="https://www.linkedin.com/in/emrecan-donmez/" target="_blank">linkedin message</a></p>
 
 ###
 
@@ -66,7 +66,7 @@
  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)" height="40" alt="microsoftsqlserver logo"  />
+  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)" height="40" alt="microsoftsqlserver logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img width="12" />
