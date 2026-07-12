@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 
-###
-
-<h3 align="center">Software Developer
-
-###
-
 <p align="left">📫 How to reach me: <a href="mailto:emrecandonmez.bt@gmail.com">emrecandonmez.bt@gmail.com</a> and  <a href="https://www.linkedin.com/in/emrecan-donmez/" target="_blank">linkedin message</a></p>
 
 <h2 align="left">Languages and Tools:</h2>
