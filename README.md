@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Software Developer at Ford Otosan also Comp. Eng. Student at Eskişehir Technical University</h3>
+<h3 align="center">Software Developer
 
 ###
 
